@@ -23,8 +23,8 @@ Atualmente focado em javascript, estudando typscript e sempre buscando novos des
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-F-Brogiato&show_icons=true&theme=transparent)
 
 ## 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-brogiato/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brogiatoluizfernando@gmail.com)
 
 
 ✨ Sempre aberto para colaborar em projetos de código aberto ou trocar ideias sobre segurança e tecnologia. Me chama!
