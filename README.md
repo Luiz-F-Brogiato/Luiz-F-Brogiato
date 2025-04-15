@@ -1,4 +1,8 @@
-## Olá, eu sou o Luiz Fernando
+# Olá, eu sou o Luiz Fernando
+
+## 💻 Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, segurança da informação e automação.  
+Atualmente focado em javascript, estudando typscript e sempre buscando novos desafios!
 
 Linguagens que eu utilizo 
 <img  width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
