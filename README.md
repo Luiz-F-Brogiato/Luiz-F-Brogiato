@@ -9,9 +9,6 @@ Atualmente focado em javascript, estudando typscript e sempre buscando novos des
 - 🔐 Burp Suite, Nmap, Wireshark
 - 🐳 Docker e ambientes isolados
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
 ## 🧠 Linguagens que eu utilizo
 
 <div>
