@@ -21,6 +21,7 @@ Atualmente focado em javascript, estudando typscript e sempre buscando novos des
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-F-Brogiato&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luiz-F-Brogiato)](https://git.io/streak-stats)
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-brogiato/)  
