@@ -18,6 +18,8 @@ Atualmente focado em javascript, estudando typscript e sempre buscando novos des
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-F-Brogiato&show_icons=true&theme=transparent)
