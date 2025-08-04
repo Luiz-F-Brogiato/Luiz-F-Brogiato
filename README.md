@@ -9,7 +9,7 @@ Atualmente focado em javascript, estudando typscript e sempre buscando novos des
 - 🔐 Burp Suite, Nmap, Wireshark
 - 🐳 Docker e ambientes isolados
 
-## 🧠 Linguagens que eu utilizo
+## 🧠 Linguagens/frameworks que eu utilizo
 
 <div>
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
