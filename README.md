@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia, segurança da informação e automação.  
-Atualmente focado em javascript, estudando typscript e sempre buscando novos desafios!
+Atualmente focado em javascript, estudando react e sempre buscando novos desafios!
 
 ## 🛠️ Minhas ferramentas favoritas
 - 💻 Linux lover (Kali e Debian-based)
