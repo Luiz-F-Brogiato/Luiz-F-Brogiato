@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sistemas legados e regra de neg�
 Atualmente focado em COBOL, MAINFRAME e JAVA e novos desafios!
 
 ## 🛠️ Minhas ferramentas favoritas
-- 💻 Linux lover (min e Debian-based)
+- 💻 Linux lover (mint e Debian-based)
 - 🔐 DB2, JCL, CICS
 - 🐳 Docker e ambientes isolados
 
