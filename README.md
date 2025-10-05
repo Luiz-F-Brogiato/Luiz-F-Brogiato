@@ -1,8 +1,8 @@
 # Olá, eu sou o Luiz Fernando
 
 ## 💻 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, segurança da informação e automação.  
-Atualmente focado em javascript, estudando react e sempre buscando novos desafios!
+Sou um desenvolvedor apaixonado por tecnologia, sistemas legados e regra de negócio.  
+Atualmente focado em COBOL, MAINFRAME e JAVA e novos desafios!
 
 ## 🛠️ Minhas ferramentas favoritas
 - 💻 Linux lover (Kali e Debian-based)
