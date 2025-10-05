@@ -5,8 +5,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sistemas legados e regra de neg�
 Atualmente focado em COBOL, MAINFRAME e JAVA e novos desafios!
 
 ## 🛠️ Minhas ferramentas favoritas
-- 💻 Linux lover (Kali e Debian-based)
-- 🔐 Burp Suite, Nmap, Wireshark
+- 💻 Linux lover (min e Debian-based)
+- 🔐 DB2, JCL, CICS
 - 🐳 Docker e ambientes isolados
 
 ## 🧠 Linguagens/frameworks que eu utilizo
