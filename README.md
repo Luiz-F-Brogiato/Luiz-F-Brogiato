@@ -22,7 +22,8 @@ Atualmente focado em COBOL, MAINFRAME e JAVA e novos desafios!
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-F-Brogiato&show_icons=true&theme=transparent)
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-F-Brogiato&show_icons=true&theme=transparent&rank_icon=github)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Luiz-F-Brogiato)](https://git.io/streak-stats)
 
 ## 🌐 Contato
