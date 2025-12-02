@@ -21,9 +21,6 @@ Atualmente focado em COBOL, MAINFRAME e JAVA e novos desafios!
   <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 </div>
-
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-F-Brogiato&show_icons=true&theme=transparent&rank_icon=github)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Luiz-F-Brogiato)](https://git.io/streak-stats)
 
 ## 🌐 Contato
